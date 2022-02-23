@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To thee Oliver Cromwell into whose hands God hath committed the sword of justice, that under thee all may be godly and quietly governed.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40303</idno>
+            <idno type="STC">Wing F1962</idno>
+            <idno type="STC">ESTC R28653</idno>
+            <idno type="EEBO-CITATION">10731858</idno>
+            <idno type="OCLC">ocm 10731858</idno>
+            <idno type="VID">45561</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40303)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45561)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1402:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To thee Oliver Cromwell into whose hands God hath committed the sword of justice, that under thee all may be godly and quietly governed.</title>
+                  <author>Fox, George, 1624-1691.</author>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Page 7 signed: George Fox ; page 8 signed: James Naylor.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658.</term>
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:45561:1"/>
+            <pb facs="tcp:45561:1" rendition="simple:additions"/>
+            <head>To Thee <hi>Oliver Cromwell,</hi> into whoſe hands God hath committed the Sword of Juſtice, that under thee all may be Godly and quietly governed. A terror to the evil doers, and for the encouragement of them that do well; and to the reſt of the Army, whom the Lord hath ſet above all your enemies: And to all that are in Authority, that you may more ſet up God in your hearts and conſciences, and give liberty to that of God in all conſciences, that his people may ſerve him, without force or fear freely in ſpirit and truth, that the Lord may bleſs you, and eſtabliſh you, and you may be ſo far honoured, as to perform what, in the times of your troubles, you did then promiſe in the preſence of God, that his people ſhould have li<g ref="char:EOLhyphen"/>berty of conſcience. To you all, I am moved of the Lord, to writ, as followeth.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T being a matter of the greateſt con<g ref="char:EOLhyphen"/>cernment to every mans conſcience that loves Chriſt, not to uphold any Miniſtry, under any pretence what<g ref="char:EOLhyphen"/>ſoever, which is not ſent by Chriſt; therefore take heed, as you tender a pure conſci<g ref="char:EOLhyphen"/>ence, to give liberty herein, that there be no forc<g ref="char:EOLhyphen"/>ing to uphold any one ſoul that ſay they are Mini<g ref="char:EOLhyphen"/>ſters; but that every one herein make proof of his Miniſtry, and ſo ſhall every mans reward be as his
+<pb n="2" facs="tcp:45561:2"/>
+work: And you Majeſtrates, ſhall not need to medle in this thing, ſeeing God never required it at your hands, to force a maintenance neither under Law nor Goſpel.</p>
+            <p>But if any ſay this will open a gap to all ſin, and make men Heathens. I anſwer, it will be the on<g ref="char:EOLhyphen"/>ly way to cut down ſin, as will appear to any rea<g ref="char:EOLhyphen"/>ſoneable underſtanding: Firſt, a Law being made to puniſh ſin without exception, this takes hold of the Heathen, and the Hypocrite ſhall not eſcape, under what form ſoever, and liberty of conſcience being given, you will preſently ſee into whoſe hands to commit the Execution of that firſt Law: for who hath not a principle of God to guide to his wor<g ref="char:EOLhyphen"/>ſhip without conſtraint, can never execute any juſt Law for God, but for ſelf ends: And ſo you ſhould chuſe men fearing God, to bear the Sword of God; And till then make what Laws you will to preſerve innocency, yet by them the innocent is ſure to ſuf<g ref="char:EOLhyphen"/>fer; for how can he whoſe conſcience is forced as to the worſhip of God, uſe a good conſcience to<g ref="char:EOLhyphen"/>wards men, or own a pure conſcience in another, to preſerve it, who hath made ſhipwrack of it him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>And for making Heathens, I ſay it will but diſ<g ref="char:EOLhyphen"/>cover Heathens that are hid: for he that hath not a principle of God in himſelf to carry on in his wor<g ref="char:EOLhyphen"/>ſhip, without forcing, is a Heathen, and knows not God, and his worſhip and prayers is abominate to God, and he that forces him is guilty with him, for ſuch was never forced, but admoniſhed, till they came to be won by the word, or without the
+<pb n="3" facs="tcp:45561:2"/>
+word by a godly converſation, and till then, to be ordered by the Law of the Magiſtrate, which is made for ſuch, till the promiſed ſeed be owned to guide in the works of the Spirit; for without that Law, the Pariſh preaching will not order ſuch, as is manifeſt in the Nation, and hath been for many years: and ſuch being declared to be Heathen, would be aſhamed, and being convinced in their own conſciences, might come to be ſaved, which now paſs under the name of a profeſſion.</p>
+            <p>But if it be ſaid this is the onely way to root out the Miniſters of Chriſt, I anſwer, its the onely way to manifeſt the Miniſters of Chriſt, from the Mi<g ref="char:EOLhyphen"/>niſters of Antichriſt, and it will root out none but ſuch whoſe care is firſt for their bellies, who minde earthly things, whoſe Miniſtry ſtands and falls by carnal things, who would be ſure of wages before they do their work; yea many of them have taken wages theſe forty or fifty years, but yet no work done, nor any brought out of ſin, and theſe cry the workman is worthy of his wages, and call for wages from ſuch as for whom they do no work: but theſe are none of Chriſts workmen, who ſeek for their wages from the world, for his he ſends freely into the world, who never asked any thing of the world: but firſt planted a Vineyard, then eat the fruit of it, firſt ſowed in hope, and then were partakers of their hope, and where they had ſowen ſpirituals, and the ſeed came up, there they reap<g ref="char:EOLhyphen"/>ed carnals, and ſo lived of the Goſpel and not of the world: and I demand of any one who owns the Scriptures to prove a forced maintenance, either
+<pb n="4" facs="tcp:45561:3"/>
+under the Law or Goſpel, but they were freely to bring it. But who art thou that ſayes the times are not ſo now, thee I deny, and thy Miniſtry, which follows the times and not Chriſt, nor the Saints practiſe in Scripture, ſtop thy mouth for ever be<g ref="char:EOLhyphen"/>ing counted a Miniſter of Chriſt, who art not con<g ref="char:EOLhyphen"/>tent with his allowance, as his have always been, for God is not charged, nor his Worſhip, nor Wor<g ref="char:EOLhyphen"/>ſhippers. But if you ſay this will ſoon bring the Miniſters to be poor; I ſay you know not God, nor his care for his, who ſo argues, for never was the righteous nor that ſeed, begging bread: againſt that diſpiteful mind do I bear witneſs, who were ſent out without bag, or ſcrip, or money, into the moſt bruitiſh parts of the Nation, where none knew me; yet want I nothing, in priſons, in wan<g ref="char:EOLhyphen"/>drings, in beatings, in ſtoneings, in mocking, my joy I would not change, for all the Perſonages in the world, nor ſhall any hireling partake of it: And you that would have others forced to maintain thy Teachers, but would not be forced to maintain others who differ in judgment, though nearer the Scripture then thine, how doſt thou fulfil the Law of Chriſt, in doing as you would be done by, what is this but to Lord it over the conſcience of thy brother.</p>
+            <p>That there be no forcing any to uphold the high places of the Nation, ſeeing many that truly fear God, connot worſhip in them, without ſin; but that liberty be given herein, and that every people may repair t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir own meeting places. I know many out of a blind zeal to thoſe places will be offended, but
+<pb n="5" facs="tcp:45561:3"/>
+what is that which would not do to others, the ſame that you would have them to do to you, is that rea<g ref="char:EOLhyphen"/>ſon, equity, or conſcience, would thou be content to be forced againſt thy conſcience, to repare the houſes of others which they meet in who differ from thee in judgement, and that upon good ground from Scripture, who meet in private or hired houſes for conſcience ſake, refuſing thoſe places which have been conſecrated to Idols: And if you look upon ſuch as brethren of free born ſubjects; is there not the ſame reaſon in it: but if thou ſay, muſt the Houſe of God go down. I anſwer, Houſes of God they are not, conveniency is the beſt you can plead for them, and of all men, you who ſtay in thoſe houſes, have leaſt cauſe to find fault, with ſuch as go out, ſeeing they leave you the houſes you ſo much eſteem of, wholly to your ſelves, with all that belongs to them, and you have them for re<g ref="char:EOLhyphen"/>pairing, and they that go out, betake themſelves either into the fields, private houſes, or ſome con<g ref="char:EOLhyphen"/>venient place, not chargeable to any.</p>
+            <p>That there be no forcing any to ſwear, who makes conſcience of an oath, ſeeing the plain com<g ref="char:EOLhyphen"/>mands of Chriſt, and his Apoſtles doth ſo often forbid it, which ſome dare not break for all the world, who are come into the everlaſting oath and Covenant of God, and into the practiſe of the Saints, which never uſed any ſuch things; but if any ſay, how ſhould true evidence he had in mat<g ref="char:EOLhyphen"/>ters of controverſy, between man and man, that true judgement may be given. I anſwer, God ap<g ref="char:EOLhyphen"/>pointed witneſſes in ſuch caſes, but never forced
+<pb n="6" facs="tcp:45561:4"/>
+them to ſwear. In the old Covenant, when ſwear<g ref="char:EOLhyphen"/>ing was an Ordinance; how much more now, when Chriſt hath ſaid ſwear not at all; but if any ſay men will not matter what they ſay, if they be not forced to ſwear: I anſwer, ſuch will not matter what they ſwear neither, were it not for fear of an outward Law; but if you make an equal puniſh<g ref="char:EOLhyphen"/>ment of falſe witneſs, as unto impriſonment, baniſh<g ref="char:EOLhyphen"/>ment, and taking away life or eſtate, or what ever ſhould by the Law, befal the perſon accuſed, (which is but juſt) you ſhall ſoon have them more afraid to lye then over they were to forſwear, and hereby come to cleanſe the land of all falſe accuſers and accuſations.</p>
+            <q>He that is faithful to God, muſt bear Rule, He that is not faithful, muſt not bear Rule for God.</q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="text">
+                        <p>He that is unjuſt, muſt not bear Rule for God. He that reſpects mens perſons, muſt not bear Rule for God, for he is a Tranſgreſſor of the Law of God: and he that is light and vain and wild, muſt not bear Rule for God: and he that is proud and covetous, muſt not bear Rule for God: and he that is in the luſt of the world, and in the luſt of the fleſh, and of the eye: muſt not bear Rule for God: and he that hath ſelf ends, muſt not bear Rule for God, for all theſe things are contrary to the light, and with the light are to be condemned; the Light of God in every mans conſcience will wit<g ref="char:EOLhyphen"/>neſs for God againſt all ſuch actions and practiſes, which are condemned with the light. And no ſcof<g ref="char:EOLhyphen"/>er
+<pb n="7" facs="tcp:45561:4"/>
+nor ſcorner, nor perſecutormuſt be a Rule for God, and who are in envy and wrath, muſt not bear rule for God; for they are in <hi>Cains</hi> way, and men that follow pleaſures ſporting themſelves in the day time, muſt not bear rule for God; for ſuch as live wantonly upon the earth, killeth the juſt, and are dead whileſt they live, and ſuch are not to bear rule for God, and ſuch as receive gifts and rewards blind the eyes, and are not to bear rule for God, whoſe eye is blinded and the light put out; and ſuch as are proud boaſters in contention, fierce, deſpiſers, and lyars, and truce breakers, are not to bear Rule for God, the Spirit of God where it rules Judges all theſe things, and teacheth to ſhew mercy, and to do good, and walk humbly with God: and all they that reſpect the rich, and deſpiſe the poor, you are not fit to bear Rule for God.</p>
+                        <closer>
+                           <signed>George Fox</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Thus in faithfulneſs to God, and in love to you, with whom I have ſerved for the good of theſe Na<g ref="char:EOLhyphen"/>tions, betwixt eight and nine years counting no<g ref="char:EOLhyphen"/>thing to dear to bring the Government into your hands in whom it is, as many can witneſs with me herein. And now my prayer to God for you is that you may lay down all your Crowns at his feet who hath Crowned you with victory, that ſo the Lord being ſet up as King in every conſcience, all may be ſubject to your Government for conſci<g ref="char:EOLhyphen"/>ence ſake: And ſo God may eſtabliſh you, and the hearts of his people, praiſe him in your behalf, and
+<pb n="8" facs="tcp:45561:5"/>
+ſo to you I have unburthened my conſcience herein, and let none be raſh in judging, but ſearch the Scriptures, and ſee if I have not laid before you the Saints practiſe, by the ſame ſpirit by which they were guided.</p>
+            <closer>
+               <signed>James Nayler.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed for <hi>Giles Calvert,</hi> and are to be ſold at his Shop, at the ſigne of the <hi>Black-ſpread-Eagle,</hi> at the Weſt end of <hi>Pauls.</hi> 1655.</p>
+            <pb facs="tcp:45561:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
